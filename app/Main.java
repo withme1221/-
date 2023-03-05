@@ -12,6 +12,7 @@ public class Main {
                                         appConfigurer.cart(),
                                         appConfigurer.order());
         orderApp.start();
+        int a = 0;
 
     }
 
